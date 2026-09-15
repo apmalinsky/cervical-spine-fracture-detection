@@ -5,8 +5,8 @@
 ## Installation
 ### Clone the repository:
 ```bash
-git clone https://github.com/apmalinsky/AAI-590-Capstone.git
-cd AAI-590-Capstone
+git clone https://github.com/apmalinsky/cervical-spine-fracture-detection.git
+cd cervical-spine-fracture-detection
 ```
 
 ### ⬇️ Downloading Your Kaggle API Key
