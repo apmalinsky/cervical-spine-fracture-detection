@@ -34,6 +34,9 @@ The goal is to develop, evaluate, and compare multiple model architectures, incl
 ## Presentation
 Feel free to checkout our [presentation](https://www.youtube.com/watch?v=rmchW63IFFU) walking through the project!
 
+## Sample Fracture Prediction
+<img width="908" height="435" alt="image" src="https://github.com/user-attachments/assets/d19cc1c5-2158-459e-9b75-6301d5b29bf3" />
+
 ## Contributors
 Team 4 — Master of Science in Applied Artificial Intelligence, University of San Diego
 * Andy Malinsky 
