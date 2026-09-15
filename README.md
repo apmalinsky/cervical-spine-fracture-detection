@@ -10,7 +10,7 @@ Feel free to checkout our [presentation](https://www.youtube.com/watch?v=rmchW63
 
 ## 📊 Dataset & Setup
 * **Source:** A curated subset of 28,868 CT scan slices from the RSNA 2022 Cervical Spine Fracture Detection dataset via the Kaggle API.
-* **Kaggle Authentication:** To run the data ingestion notebooks, you will need a Kaggle API key. Follow the instructions in the [Kaggle Setup Guide]() to configure your kaggle.json credentials.
+* **Kaggle Authentication:** To run the data ingestion notebooks, you will need a Kaggle API key. Follow the instructions in the [Kaggle Setup Guide](SETUP_KAGGLE_KEY.md) to configure your kaggle.json credentials.
 * Navigate to [Kaggle](https://www.kaggle.com/) and click "+ Create" on the left-hand side, then select "Notebook".
 * There, you can import [**this notebook**](00_CreatePrivateDataset.ipynb) to get started. This notebook will walk you through step-by-step to create your own private Kaggle dataset.
 
