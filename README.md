@@ -1,7 +1,4 @@
 # Cervical Spine Fracture Detection Using Computer Vision
-#### This project is a part of the AAI-590 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
-**Status**: Active
-
 ## Installation
 ### Clone the repository:
 ```bash
